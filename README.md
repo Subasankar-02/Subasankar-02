@@ -25,9 +25,9 @@ Creating business‑driven portfolio projects with real datasets
 Designing automated reporting flows powered by AI + Python
 
 # Portfolio Projects (In Progress)
-Sales Performance Dashboard (Power BI)
-Customer Segmentation (Python + SQL)
-Data Cleaning Automation (Python)
+Sales Performance Dashboard (Power BI)                             
+Customer Segmentation (Python + SQL)                                   
+Data Cleaning Automation (Python)                                        
 AI‑powered Insights Notebook
 
 # Career Goals
@@ -37,5 +37,5 @@ Contribute to open‑source analytics
 Use AI to elevate business intelligence
 
 # Connect With Me
-LinkedIn: www.linkedin.com/in/subashni-sankararaman-107a20147
+LinkedIn: www.linkedin.com/in/subashni-sankararaman-107a20147           
 Email: subaireland@gmail.com
